@@ -1,2 +1,1 @@
-# wasm-go
-WASM 辅助库
+# Go 语言版本 WASM 工具
